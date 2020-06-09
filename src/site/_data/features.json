@@ -1,14 +1,10 @@
 [
     {
-        "title": "🎨 Working Tailwind CSS Pipeline",
-        "details": "So you can build with awesome utility-first CSS right out of the box."
+        "title": "🗺 Customers Find You",
+        "details": "It is essential to have a presence on the web these days. As your customers are deciding how and where to spend their money carefully, you need to be available to them when they come looking."
     },
     {
-        "title": "💻 Connected Javascript file",
-        "details": "Start writing code to make your site more interactive. All in one file, or in multiple."
-    },
-    {
-        "title": "💪 Experience",
-        "details": "Decades of marine maintenance experience across the team."
+        "title": "💻📱⌚️ Responsive and Accessible",
+        "details": "No matter what device someone reaches for, your site will look great and have the useful information up front."
     }
 ]
