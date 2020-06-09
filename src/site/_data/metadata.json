@@ -1,17 +1,17 @@
 {
-  "title": "State Site Template",
-  "url": "",
+  "title": "Florida Keys Web Development",
+  "url": "floridakeyswebdevelopment.com",
   "author": {
     "name": "Eric Raslich",
     "email": "rasliche@gmail.com",
-    "github": "",
-    "twitter": "",
-    "website": "floridakeyswebdevelopment.com"
+    "github": "https://github.com/rasliche",
+    "twitter": "https://twitter.com/rasliche",
+    "website": "ericraslich.com"
   },
   "social": {
     "twitter": "",
     "facebook": "",
-    "email": ""    
+    "email": ""
   },
   "address": {
     "street": "",
