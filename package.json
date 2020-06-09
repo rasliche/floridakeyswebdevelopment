@@ -13,5 +13,7 @@
     "@11ty/eleventy": "^0.9.0",
     "tailwindcss": "^1.4.6"
   },
-  "dependencies": {}
+  "dependencies": {
+    "gitlog": "^4.0.0"
+  }
 }
