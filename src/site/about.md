@@ -1,10 +1,6 @@
 ---
 layout: layouts/base.njk
+title: About
 ---
-## Hosted on Netlify
-
-
-
-## Click to Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rasliche/static-site-template)
+I'm on a one man shop trying to make sure local businesses in the Florida Keys have a voice on the internet. I believe in quality websites that allow customers
+to find a business and get relevant information quickly and easily.
