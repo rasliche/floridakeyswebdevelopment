@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: floridakeyswebdevelopment.com
+Token: 216bdee1cc635c7b852d458b82145f27411106596fa3260508f0e4604a7fe931

@@ -1,10 +1,15 @@
 ---
-layout: "layouts/base.njk"
+layout: layouts/base.njk
 ---
 
-<h1>{{ title }}</h1>
-<p>Published on {{ date }}<p>
+<article class="flex flex-wrap max-w-2xl">
+    <div>
+        <h1 class="text-lg">{{ title }}</h1>
+        <h2 class="text-sm">({{ subtitle }})</h2>
+        <p class="text-xs">{{ page.date | dateDisplay }}<p>
+    </div>
 
-<article>
     {{ content | safe }}
 </article>
+
+{% changelog filePath=page.inputPath %}
